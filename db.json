@@ -1,0 +1,275 @@
+{
+  "categories": [
+    {
+      "id": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "name": "Clothing",
+      "createdAt": 1618026452767,
+      "updatedAt": 1618026452767
+    },
+    {
+      "id": "39b4336d-17ca-438c-8acb-06fcaa502089",
+      "name": "Books",
+      "createdAt": 1618026452768,
+      "updatedAt": 1618026452768
+    },
+    {
+      "id": "5cc9c832-44a7-4629-b0ea-4fb7b70e946c",
+      "name": "Shoes",
+      "createdAt": 1618026452769,
+      "updatedAt": 1618026452769
+    },
+    {
+      "id": "2075461b-a9d0-48b9-8956-5d37ba71bcc4",
+      "name": "Toys",
+      "createdAt": 1618026452770,
+      "updatedAt": 1618026452770
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "id": "53ac7dc6-8da0-4aca-a68e-38629c92c522",
+      "name": "Handcrafted Steel Bike",
+      "color": "purple",
+      "price": 280,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618026452771,
+      "updatedAt": 1618026452771,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "id": "ba7331df-67f4-4d3e-9d27-9ef2e01deccf",
+      "name": "Handmade Granite Fish",
+      "color": "tan",
+      "price": 673,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1618026452772,
+      "updatedAt": 1618026452772,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "id": "647c7fab-d72b-4bdd-a872-6fb43b4de167",
+      "name": "Sleek Wooden Chips",
+      "color": "pink",
+      "price": 930,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1618026452772,
+      "updatedAt": 1618026452772,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "id": "4534d557-88ac-425b-a7d0-bb1d53ddca89",
+      "name": "Refined Rubber Pizza",
+      "color": "plum",
+      "price": 250,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1618026452773,
+      "updatedAt": 1618026452773,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "id": "cb741223-b1ba-42b8-8139-8db1622b3680",
+      "name": "Practical Granite Mouse",
+      "color": "grey",
+      "price": 785,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618026452775,
+      "updatedAt": 1618026452775,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "39b4336d-17ca-438c-8acb-06fcaa502089",
+      "id": "283334c5-af33-4c43-8b40-ef3ffbe3d8a4",
+      "name": "Sleek Concrete Shoes",
+      "color": "pink",
+      "price": 426,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618026452776,
+      "updatedAt": 1618026452776,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "39b4336d-17ca-438c-8acb-06fcaa502089",
+      "id": "ee13cc68-fa2d-446f-81ae-2ece5fb01d9a",
+      "name": "Sleek Wooden Fish",
+      "color": "tan",
+      "price": 985,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618026452777,
+      "updatedAt": 1618026452777,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "39b4336d-17ca-438c-8acb-06fcaa502089",
+      "id": "33955084-0817-4e0d-b34c-322197c390bf",
+      "name": "Awesome Concrete Fish",
+      "color": "white",
+      "price": 715,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1618026452778,
+      "updatedAt": 1618026452778,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "39b4336d-17ca-438c-8acb-06fcaa502089",
+      "id": "25e630ad-aefa-49a0-8706-dec3724fe164",
+      "name": "Sleek Concrete Ball",
+      "color": "lime",
+      "price": 428,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1618026452779,
+      "updatedAt": 1618026452779,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "39b4336d-17ca-438c-8acb-06fcaa502089",
+      "id": "16ab1fe0-035b-4fb7-8e5b-e134f9e425ad",
+      "name": "Rustic Concrete Soap",
+      "color": "indigo",
+      "price": 828,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1618026452780,
+      "updatedAt": 1618026452780,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5cc9c832-44a7-4629-b0ea-4fb7b70e946c",
+      "id": "198d7ba3-c46c-4451-bacf-6046875f734a",
+      "name": "Generic Plastic Shirt",
+      "color": "fuchsia",
+      "price": 114,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618026452783,
+      "updatedAt": 1618026452783,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5cc9c832-44a7-4629-b0ea-4fb7b70e946c",
+      "id": "482f1ca9-009a-41ef-a482-4434968c75cc",
+      "name": "Unbranded Soft Chicken",
+      "color": "cyan",
+      "price": 871,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1618026452785,
+      "updatedAt": 1618026452785,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5cc9c832-44a7-4629-b0ea-4fb7b70e946c",
+      "id": "844ce169-b48e-486a-aa4a-839a1f8241f7",
+      "name": "Gorgeous Rubber Pizza",
+      "color": "plum",
+      "price": 202,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618026452785,
+      "updatedAt": 1618026452785,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5cc9c832-44a7-4629-b0ea-4fb7b70e946c",
+      "id": "3beaa99f-d433-48fc-9dcc-b46fdf8804a3",
+      "name": "Incredible Plastic Gloves",
+      "color": "white",
+      "price": 105,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1618026452786,
+      "updatedAt": 1618026452786,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5cc9c832-44a7-4629-b0ea-4fb7b70e946c",
+      "id": "8dff92db-2156-4020-aade-a33adab0be18",
+      "name": "Gorgeous Metal Gloves",
+      "color": "gold",
+      "price": 861,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1618026452787,
+      "updatedAt": 1618026452787,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2075461b-a9d0-48b9-8956-5d37ba71bcc4",
+      "id": "02c4f070-d2c7-4beb-a6b6-e0490156ffef",
+      "name": "Incredible Wooden Cheese",
+      "color": "salmon",
+      "price": 547,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618026452787,
+      "updatedAt": 1618026452787,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2075461b-a9d0-48b9-8956-5d37ba71bcc4",
+      "id": "964d9cdd-1ac1-4912-87fc-9da628eb00ec",
+      "name": "Small Steel Shirt",
+      "color": "green",
+      "price": 908,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1618026452788,
+      "updatedAt": 1618026452788,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2075461b-a9d0-48b9-8956-5d37ba71bcc4",
+      "id": "6d95cf29-365f-46e9-81bb-62d90eeca232",
+      "name": "Ergonomic Cotton Towels",
+      "color": "violet",
+      "price": 500,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618026452788,
+      "updatedAt": 1618026452788,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2075461b-a9d0-48b9-8956-5d37ba71bcc4",
+      "id": "b1ad8e38-d39c-4b96-9110-08d6e67a5d9b",
+      "name": "Intelligent Concrete Shoes",
+      "color": "olive",
+      "price": 159,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618026452789,
+      "updatedAt": 1618026452789,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2075461b-a9d0-48b9-8956-5d37ba71bcc4",
+      "id": "16439d97-18cb-4364-891a-357c9fa3b268",
+      "name": "Gorgeous Steel Ball",
+      "color": "red",
+      "price": 667,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1618026452789,
+      "updatedAt": 1618026452789,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "name": "Handcrafted Leek",
+      "color": "red",
+      "price": 2345,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618027809825,
+      "updatedAt": 1618027809825,
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "id": "eHDOVAx"
+    },
+    {
+      "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+      "name": "Handcrafted Yen",
+      "color": "green",
+      "price": 680,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createdAt": 1618028184493,
+      "updatedAt": 1618028226016,
+      "id": "xx-WK6E"
+    }
+  ],
+  "profile": {
+    "name": "Khanh Junior"
+  }
+}

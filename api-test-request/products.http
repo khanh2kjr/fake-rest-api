@@ -1,0 +1,61 @@
+@base_url = http://localhost:3000/api
+# Categories
+
+# @name getAllProducts
+GET {{base_url}}/products
+
+###
+
+# @name filterProducts
+GET {{base_url}}/products?color=pink&price_gte=200
+
+###
+
+# @name pagination
+GET {{base_url}}/products?_page=1&_limit=5
+
+###
+
+# @name sort
+GET {{base_url}}/products?_sort=price&_order=asc
+GET {{base_url}}/products?_sort=price&_order=desc
+
+###
+
+# @name search
+GET {{base_url}}/products?name_like=sleek
+
+###
+
+# @name addNewProducts
+
+POST {{base_url}}/products
+Content-Type: application/json
+
+{
+  "categoryId": "cefd64bd-da0b-4561-a634-16d6d2f41bea",
+  "name": "Handcrafted Mem",
+  "color": "blue",
+  "price": 400,
+  "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "thumbnailUrl": "http://placeimg.com/400/400"
+}
+
+###
+
+# @name updateProduct
+
+PATCH {{base_url}}/products/xx-WK6E
+Content-Type: application/json
+
+{
+  "name": "Handcrafted Yen",
+  "color": "green",
+  "price": 680
+}
+
+###
+
+# @name removeProduct
+
+DELETE {{base_url}}/products/4
