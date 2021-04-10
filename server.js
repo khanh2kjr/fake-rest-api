@@ -3,7 +3,7 @@ const queryString = require('query-string')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
-
+const PORT = process.env.PORT || 3000
 server.use(middlewares)
 
 server.get('/echo', (req, res) => {
@@ -44,6 +44,6 @@ router.render = (req, res) => {
 }
 
 server.use('/api', router)
-server.listen(3000, () => {
+server.listen(PORT, () => {
   console.log('JSON Server is running')
 })
