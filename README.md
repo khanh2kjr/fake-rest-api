@@ -1,8 +1,8 @@
 ## SETUP FAKE API WITH JSON-SERVER
 
 ```bash
-npm i --save json-server
-npm i --save-dev faker nodemon
+npm i --save json-server faker
+npm i --save-dev nodemon
 ```
 Install Rest Client extension VSCODE
 

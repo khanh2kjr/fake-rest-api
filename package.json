@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "faker": "^5.5.3",
     "json-server": "^0.16.3",
     "query-string": "^7.0.0"
   },
   "devDependencies": {
-    "faker": "^5.5.3",
     "nodemon": "^2.0.7"
   },
   "scripts": {
