@@ -26,21 +26,20 @@ router.render = (req, res) => {
   const headers = res.getHeaders()
 
   const totalCountHeader = headers['x-total-count']
-  
+
   if (req.method === 'GET' && totalCountHeader) {
     const queryParams = queryString.parse(req._parsedUrl.query)
-    
+
     const result = {
       data: res.locals.data,
       pagination: {
         _page: Number.parseInt(queryParams._page) || 1,
         _limit: Number.parseInt(queryParams._limit) || 5,
-        _totalRows: Number.parseInt(totalCountHeader)
-      }
+        _totalRows: Number.parseInt(totalCountHeader),
+      },
     }
     res.jsonp(result)
   }
-
 }
 
 server.use('/api', router)
